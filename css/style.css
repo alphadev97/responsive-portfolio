@@ -210,6 +210,8 @@ header.sticky{
     padding: 45px 45px 45px 45px;
     transition: ease .50s;
     cursor: pointer;
+    border: 1px solid var(--main-color);
+    border-radius: 12px;
 }
 
 .sub-img img{
