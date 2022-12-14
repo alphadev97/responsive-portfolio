@@ -235,7 +235,7 @@ header.sticky{
 
 .sub-box:hover{
     background: #ffffff;
-    box-shadow: 18px 0px 87px 0px var(--main-color);
+    box-shadow: 18px 0px 50px 0px #6fc9e7;
     border-radius: 12px;
     will-change: transform;
     transform: perspective(1000px) rotateX(4.80deg) rotateY(10.23deg) scale3d(1.05,1.05,1.05);
